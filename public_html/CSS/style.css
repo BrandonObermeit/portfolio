@@ -1,0 +1,16 @@
+body{
+    background-color: orange;
+}
+
+nav a {
+    color: red;
+}
+
+#current-link{
+    
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
