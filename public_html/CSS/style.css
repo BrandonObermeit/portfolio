@@ -1,6 +1,4 @@
-body{
-    background-color: orange;
-}
+
 
 nav a {
     color: red;
@@ -13,4 +11,9 @@ nav a {
 img{
     width: 300px;
     height: auto;
+}
+
+body{
+   background-size:cover ;
+   background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQe53O4q54_UbfLY5m0ZfKn3dTgIIQgBRstk8PCsh_i1bKEBxr3OA)   
 }
